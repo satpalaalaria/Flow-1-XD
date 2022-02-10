@@ -1,2 +1,2 @@
 # Flow-1-XD
-make a simple UI using HTML,CSS
+make a simple mobile UI using HTML,CSS
